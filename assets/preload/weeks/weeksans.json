@@ -1,0 +1,41 @@
+{
+	"storyName": "last breath",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sans",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"no-more-slacking",
+			"phase-1-icons",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"slaughter-continues",
+			"phase-2-icons",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sans week",
+	"hiddenUntilUnlocked": false
+}
